@@ -57,6 +57,11 @@ Tushar, Fakrul Islam, et al. "AI in Lung Health: Benchmarking Detection and Diag
 A. Wang, F. I. TUSHAR, M. R. Harowicz, K. J. Lafata, T. D. Tailorand J. Y. Lo, “Duke Lung Cancer Screening Dataset 2024”. Zenodo, Mar. 05, 2024. doi: 10.5281/zenodo.13799069.
 ```
 
+# Related Studies:
+
+# Refining Focus in AI for Lung Cancer: Comparing Lesion-Centric and Chest-Region Models with Performance Insights from Internal and External Validation. [![arXiv](https://img.shields.io/badge/arXiv-2411.16823-<color>.svg)](https://arxiv.org/abs/2411.16823)
+
+# Peritumoral Expansion Radiomics for Improved Lung Cancer Classification. [![arXiv](https://img.shields.io/badge/arXiv-2411.16008-<color>.svg)](https://arxiv.org/abs/2411.16008)
 
 
 # Datasets
