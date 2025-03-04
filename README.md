@@ -58,10 +58,18 @@ A. Wang, F. I. TUSHAR, M. R. Harowicz, K. J. Lafata, T. D. Tailorand J. Y. Lo, �
 ```
 
 # Related Studies:
+### Refining Focus in AI for Lung Cancer: Comparing Lesion-Centric and Chest-Region Models with Performance Insights from Internal and External Validation. [![arXiv](https://img.shields.io/badge/arXiv-2411.16823-<color>.svg)](https://arxiv.org/abs/2411.16823)
+### Peritumoral Expansion Radiomics for Improved Lung Cancer Classification. [![arXiv](https://img.shields.io/badge/arXiv-2411.16008-<color>.svg)](https://arxiv.org/abs/2411.16008)
 
-# Refining Focus in AI for Lung Cancer: Comparing Lesion-Centric and Chest-Region Models with Performance Insights from Internal and External Validation. [![arXiv](https://img.shields.io/badge/arXiv-2411.16823-<color>.svg)](https://arxiv.org/abs/2411.16823)
+# Benchmark models weights can be downloaded from here:
+All the developed model weights are publicly available at:
+📥 Zenodo: https://zenodo.org/records/14967976
 
-# Peritumoral Expansion Radiomics for Improved Lung Cancer Classification. [![arXiv](https://img.shields.io/badge/arXiv-2411.16008-<color>.svg)](https://arxiv.org/abs/2411.16008)
+for Model Gnenesis and MedicaNeT3D Pre-trained weights can be downloaded from here:
+* [Genesis_Chest_CT.pt](https://drive.google.com/file/d/16iIIRkl6zYAfQ14i9NOakwFd6w_xKBSY/view?usp=sharing)
+* [resnet_50_23dataset.pth](https://drive.google.com/file/d/1dIyJd3jpz9mBx534UA7deqT7f8N0sbJL/view?usp=sharing)
+
+
 
 
 # Datasets
@@ -258,15 +266,6 @@ We define the lung cancer classification task as given a nodule classifying it a
 *  **ResNet50-SWS++:** We developed an in-house model using our novel Strategic WarmStart++ (SWS++) pretraining approach. The method involved training a ResNet50 to reduce false positives in lung nodule detection, using a carefully stratified dataset based on nodule confidence scores. The resulting model, “ResNet50-SWS++,” was then fine-tuned for end-to-end lung cancer classification. [Tushar, F. I., et al. (2024)](https://arxiv.org/abs/2405.04605)
 
 
-
-## Cancer Classifications
-Pre-trained weights can be downloaded from here:
-* [Genesis_Chest_CT.pt](https://drive.google.com/file/d/16iIIRkl6zYAfQ14i9NOakwFd6w_xKBSY/view?usp=sharing)
-* [resnet_50_23dataset.pth](https://drive.google.com/file/d/1dIyJd3jpz9mBx534UA7deqT7f8N0sbJL/view?usp=sharing)
-
-## Benchmark models weights can be downloaded from here:
-*
-*
 
 # Training Lungs Cancer Classification Models
 
