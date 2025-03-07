@@ -58,13 +58,13 @@ A. Wang, F. I. TUSHAR, M. R. Harowicz, K. J. Lafata, T. D. Tailorand J. Y. Lo, �
 
 ## 🚀 Updates
 
-* [1] 3/5/2025 Publicly released the trained model weights
-* [2] 3/7/2025 Added visulization script for DLCSD24
-* [3] Publicly releas Pre-processed dataset ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange)
-* [4] Benchmark on LUNA25 Dataset ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange)
-* [5] Psedo-Segmentation of DLCSD24 nodules using Vista3D,nnUNetv2 and [SYN-LUNGS](https://github.com/fitushar/SYN-LUNGS)
-* [6] ml-based segmentation and radiomics classification benchmark ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange)
-* [7] Post-hock visualization of model predictions and code ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange)
+- **[1] 3/5/2025** - 📢 Public release of **trained model weights**.
+- **[2] 3/7/2025** - 🖼️ Added **visualization script** for **DLCSD24**.
+- **[3]** - 📂 Public release of **pre-processed dataset** ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange).
+- **[4]** - 📊 Benchmarking on **LUNA25 dataset** ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange).
+- **[5]** - 🔍 **Pseudo-segmentation** of DLCSD24 nodules using **Vista3D, nnUNetv2**, and **[SYN-LUNGS](https://github.com/fitushar/SYN-LUNGS)**.
+- **[6]** - ⚙️ **ML-based segmentation and radiomics classification benchmark** ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange).
+- **[7]** - 🎯 **Post-hoc visualization** of model predictions and associated code ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange).
 
 # Related Studies:
 ### Refining Focus in AI for Lung Cancer: Comparing Lesion-Centric and Chest-Region Models with Performance Insights from Internal and External Validation. [![arXiv](https://img.shields.io/badge/arXiv-2411.16823-<color>.svg)](https://arxiv.org/abs/2411.16823)
