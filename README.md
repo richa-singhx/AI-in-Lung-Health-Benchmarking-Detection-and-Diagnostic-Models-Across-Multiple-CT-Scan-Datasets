@@ -84,6 +84,22 @@ for Model Gnenesis and MedicaNeT3D Pre-trained weights can be downloaded from he
 
 **Conclusions:** The  Duke Lung Cancer Screening Dataset 2024 is the first large dataset for CT screening for lung cancer reflecting the use of current CT technology. This represents a useful resource of lung cancer risk classification research, and the efficient annotation methods described for its creation may be used to generate similar databases for research in the future
 
+## [DLCSD24 Annotation Visualization](https://github.com/fitushar/AI-in-Lung-Health-Benchmarking-Detection-and-Diagnostic-Models-Across-Multiple-CT-Scan-Datasets/blob/main/Visualize_DLCSD24.ipynb)
+
+This notebook provides a script to visualize **DLCSD24** annotations by overlaying **Annotation box** on CT scans. It also allows filtering specific dataset splits (train, validation, test) for targeted analysis. Set the dataset paths to access raw CT scans and corresponding metadata, It also allows filtering specific dataset splits (train, validation, test) for targeted analysis.
+
+```python
+raw_data_path = 'path/to/DLCS24/'
+dataset_csv   = 'path/to/Zenodo_metadata/DLCSD24_Annotations.csv'
+Final_dect    = df[(df['benchmark_split']=='test')]['ct_nifti_file'].unique()
+```
+
+**Important:**  ⚠️
+The **DLCSD24** and **NLST** datasets use slightly different **image coordinate systems** when plotting visualizations.  
+To correctly overlay **annotations on CT images**, follow the provided script to ensure proper coordinate alignment.  
+Using an incorrect coordinate system may result in misaligned visualizations and potential confusion in interpretation.
+
+
 
 ## [NLST](https://github.com/fitushar/AI-in-Lung-Health-Benchmarking-Detection-and-Diagnostic-Models-Across-Multiple-CT-Scan-Datasets/tree/main/NLST_Data_Annotations)
 
