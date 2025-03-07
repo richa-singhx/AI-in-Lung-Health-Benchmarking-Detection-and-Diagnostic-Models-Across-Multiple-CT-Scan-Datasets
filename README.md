@@ -49,13 +49,22 @@ accelerate research, enhance reproducibility, and foster collaborative advanceme
 ```ruby
 Tushar, Fakrul Islam, et al. "AI in Lung Health: Benchmarking Detection and Diagnostic Models Across Multiple CT Scan Datasets." arXiv preprint arXiv:2405.04605 (2024).
 ```
-
 ### Citation Dataset- Duke Lung
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13799069.svg)](https://doi.org/10.5281/zenodo.13799069) 
 ```ruby
 A. Wang, F. I. TUSHAR, M. R. Harowicz, K. J. Lafata, T. D. Tailorand J. Y. Lo, “Duke Lung Cancer Screening Dataset 2024”. Zenodo, Mar. 05, 2024. doi: 10.5281/zenodo.13799069.
 ```
+
+## 🚀 Updates
+
+* [1] 3/5/2025 Publicly released the trained model weights
+* [2] 3/7/2025 Added visulization script for DLCSD24
+* [3] Publicly releas Pre-processed dataset ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange)
+* [4] Benchmark on LUNA25 Dataset ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange)
+* [5] Psedo-Segmentation of DLCSD24 nodules using Vista3D,nnUNetv2 and [SYN-LUNGS](https://github.com/fitushar/SYN-LUNGS)
+* [6] ml-based segmentation and radiomics classification benchmark ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange)
+* [7] Post-hock visualization of model predictions and code ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange)
 
 # Related Studies:
 ### Refining Focus in AI for Lung Cancer: Comparing Lesion-Centric and Chest-Region Models with Performance Insights from Internal and External Validation. [![arXiv](https://img.shields.io/badge/arXiv-2411.16823-<color>.svg)](https://arxiv.org/abs/2411.16823)
@@ -422,18 +431,6 @@ python3 path/to/ct_classification/training_AUC_StepLR.py -c /path/to/ct_classifi
 
 }
 ```
-
-
-## 🚀 Coming Soon
-We are currently working on releasing the complete codebase for detection, classification (model weights), pre-processing, and training/validation pipelines. This release will include detailed scripts and instructions to facilitate reproducibility and support further research in this area. 
-
-Stay tuned! The code will be available here soon.
-
-![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange)
-
-
-
-
 # Citations
 
 * Tushar, Fakrul Islam, et al. "AI in Lung Health: Benchmarking Detection and Diagnostic Models Across Multiple CT Scan Datasets." arXiv preprint arXiv:2405.04605 (2024).
