@@ -62,7 +62,7 @@ A. Wang, F. I. TUSHAR, M. R. Harowicz, K. J. Lafata, T. D. Tailorand J. Y. Lo, �
 - **[2] 3/7/2025** - 🖼️ Added **visualization script** for **DLCSD24**.
 - **[3]** - 📂 Public release of **pre-processed dataset** ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange).
 - **[4]** - 📊 Benchmarking on **LUNA25 dataset** ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange).
-- **[5]** - 🔍 **Pseudo-segmentation** of DLCSD24 nodules using **Vista3D, nnUNetv2**, and **[SYN-LUNGS](https://github.com/fitushar/SYN-LUNGS)**.
+- **[5]** - 🔍 **Pseudo-segmentation** of DLCSD24 nodules using **Vista3D, nnUNetv2**, and **[SYN-LUNGS](https://github.com/fitushar/SYN-LUNGS)**. ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange)
 - **[6]** - ⚙️ **ML-based segmentation and radiomics classification benchmark** ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange).
 - **[7]** - 🎯 **Post-hoc visualization** of model predictions and associated code ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange).
 
